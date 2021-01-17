@@ -7,4 +7,24 @@
     width: 325px;
     height: 370px;
   }
+  .very-dark-magenta {
+    color: hsl(300, 43%, 22%);
+  }
+  .background-very-dark-magenta {
+    background-color: hsl(300, 43%, 22%);
+  }
+  .soft-pink {
+    color: hsl(333, 80%, 67%);
+  }
+  .dark-grayish-magenta {
+    color: hsl(303, 10%, 53%);
+  }
+  .light-grayish-magenta {
+    color: hsl(300, 24%, 96%);
+  }
+  .background-light-grayish-magenta {
+    background-color: hsl(300, 24%, 96%);
+  }
 }
+
+@import url("https://fonts.googleapis.com/css2?family=Spartan:wght@400;500;700&display=swap");

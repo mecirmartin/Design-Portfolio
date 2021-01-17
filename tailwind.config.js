@@ -1,3 +1,5 @@
+const defaultTheme = require("tailwindcss/defaultTheme")
+
 module.exports = {
   purge: {
     enable: true,
@@ -8,11 +10,15 @@ module.exports = {
     extend: {
       spacing: {
         "2/3": "66.666667%",
+        112: "28rem",
       },
       colors: {
         blue: {
           teal: "#1AA1AD",
         },
+      },
+      fontFamily: {
+        sans: ["Spartan", ...defaultTheme.fontFamily.sans],
       },
     },
   },
