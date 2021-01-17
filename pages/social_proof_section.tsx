@@ -118,7 +118,7 @@ const social_proof_section = () => {
       </div>
 
       <div className="lg:flex lg:mt-20">
-        <div className="flex flex-col w-full h-64 mt-12 lg:h-auto lg:mt-0 background-very-dark-magenta rounded-xl">
+        <div className="flex flex-col w-full h-64 mt-12 lg:mt-0 background-very-dark-magenta rounded-xl">
           <div className="mt-10 mx-7 mb-9">
             <div className="flex items-center">
               <img
@@ -140,7 +140,7 @@ const social_proof_section = () => {
             </p>
           </div>
         </div>
-        <div className="flex flex-col w-full h-64 mt-4 lg:h-auto lg:mt-3 lg:ml-7 background-very-dark-magenta rounded-xl">
+        <div className="flex flex-col w-full h-64 mt-4 lg:mt-3 lg:ml-7 background-very-dark-magenta rounded-xl">
           <div className="mt-10 mx-7 mb-9">
             <div className="flex items-center">
               <img
@@ -162,7 +162,7 @@ const social_proof_section = () => {
             </p>
           </div>
         </div>
-        <div className="flex flex-col w-full h-64 mt-4 lg:h-auto lg:mt-6 lg:ml-7 background-very-dark-magenta rounded-xl">
+        <div className="flex flex-col w-full h-64 mt-4 lg:mt-6 lg:ml-7 background-very-dark-magenta rounded-xl">
           <div className="mt-10 mx-7 mb-9">
             <div className="flex items-center">
               <img
