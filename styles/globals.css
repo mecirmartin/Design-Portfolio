@@ -25,6 +25,12 @@
   .background-light-grayish-magenta {
     background-color: hsl(300, 24%, 96%);
   }
+  .white-container {
+    height: 410px;
+  }
+  .font-small {
+    font-size: 12px;
+  }
 }
 
-@import url("https://fonts.googleapis.com/css2?family=Spartan:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Spartan:wght@400;500;600;700&display=swap");
